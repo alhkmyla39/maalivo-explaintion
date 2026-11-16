@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Prototype-3F3862?style=flat-square" alt="Prototype" />
 </p>
 
-![Maalivo’s English sales dashboard design with net sales and branch comparisons](./assets/dashboard.png)
+![Maalivo’s English sales dashboard design with net sales and branch comparisons]
 
 *Maalivo’s sales dashboard design in English, shown with illustrative sales figures.*
 
