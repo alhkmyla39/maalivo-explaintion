@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/Prototype-3F3862?style=flat-square" alt="Prototype" />
 </p>
 
-![Maalivo Arabic sales dashboard design with net sales and a branch comparison chart](./assets/dashboard.png)
+![Maalivo’s English sales dashboard design with net sales and branch comparisons](./assets/dashboard.png)
 
-*Maalivo’s Arabic dashboard design in Figma, shown with illustrative sales figures.*
+*Maalivo’s sales dashboard design in English, shown with illustrative sales figures.*
 
 ## What is Maalivo?
 
