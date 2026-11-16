@@ -11,6 +11,7 @@
 ![Maalivo’s English sales dashboard design with net sales and branch comparisons]
 
 *Maalivo’s sales dashboard design in English, shown with illustrative sales figures.*
+![Maalivo analytics dashboard in dark mode](./assets/analytics-en-dark-1440.png)
 
 ## What is Maalivo?
 
